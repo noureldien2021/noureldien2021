@@ -1,31 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git.png" alt="Cloud & DevOps Banner" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
----
-
-## 💼 Skills
-
-🚀 **Cloud & DevOps Toolkit**
-
-- ☁️ **Cloud**: Google Cloud Platform (GCP) · AWS  
-- 🐳 **Containers**: Docker · Kubernetes · GKE  
-- 🔄 **CI/CD**: Google Cloud Build · GitHub Actions  
-- 🧠 **Monitoring & Logging**: Elastic APM · Custom scripts · Discord alerts  
-- 🔐 **Security**: IAM · GuardDuty · VPCs · Secure Infrastructure  
-- 📦 **Backend**: Node.js · Express.js · MongoDB  
-- 🔌 **Data Integration**: FTP servers · POS data pipelines · REST APIs  
-
----
-
-## 📫 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/noureldien-sami/)
-- 🛠️ [GitHub](https://github.com/noureldien2021)
-- ✉️ **Email**: nour.sami.dev@gmail.com
-
----
-
-> 👨‍💻 *Always automating and optimizing cloud infrastructure.*
-
-
+-   :video_game: I am working as **Principle DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds..
