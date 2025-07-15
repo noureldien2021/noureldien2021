@@ -1,4 +1,11 @@
-<img src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/refs/heads/main/git2.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/refs/heads/main/git2.png" 
+    alt="Introduction Banner.." 
+    width="800" 
+    style="border-radius: 12px; opacity: 0.95; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+  />
+</p>
 
 <p align="center">
   🎯 <strong>FOCUS</strong> &nbsp; · &nbsp; 🥊 <strong>FIGHT</strong> &nbsp; · &nbsp; 🎉 <strong>FUN</strong>
@@ -33,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:nour.sami.dev@gmail.com">
+  <a href="mailto:noureldiensami2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   &nbsp;
