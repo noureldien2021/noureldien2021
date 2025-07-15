@@ -2,14 +2,14 @@
   <img 
     src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/refs/heads/main/git2.png" 
     alt="Introduction Banner.." 
-    width="800" 
-    style="border-radius: 30 px; opacity: 0.95; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+    style="max-width: 100%; height: auto; max-height: 280px; border-radius: 20px; opacity: 0.95; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
   />
 </p>
 
 <p align="center">
   🎯 <strong>FOCUS</strong> &nbsp; · &nbsp; 🥊 <strong>FIGHT</strong> &nbsp; · &nbsp; 🎉 <strong>FUN</strong>
 </p>
+
 
 ---
 
