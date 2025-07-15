@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/noureldien2021/noureldien2021/issues/1#issue-3231954373.png" alt="Cloud & DevOps Banner" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git.png" alt="Cloud & DevOps Banner" style="max-width:100%;">
 </p>
+
 ---
 
 ## 💼 Skills
