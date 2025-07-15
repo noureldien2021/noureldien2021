@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git2.png" 
     alt="Introduction Banner.." 
-    width="700" 
+    width="300" 
     style="border-radius: 20px; opacity: 0.95;" 
   />
 </p>
