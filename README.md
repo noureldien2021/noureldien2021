@@ -8,7 +8,7 @@
         style="border-radius: 20px; opacity: 0.95;" 
       />
       <br><br>
-      🎯 <strong>FOCUS</strong> &nbsp; · &nbsp; 🥊 <strong>FIGHT</strong> &nbsp; · &nbsp; 🎉 <strong>FUN</strong>
+      🎯 <strong>FOCUS</strong> &nbsp;  &nbsp; 🥊 <strong>FIGHT</strong> &nbsp;  &nbsp; 🎉 <strong>FUN</strong>
     </td>
   </tr>
 </table>
