@@ -6,4 +6,4 @@
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds..
 -   🛣️Lifelong learning
-- :focus
+- 🎯 **FOCUS** &nbsp; · &nbsp; 🥊 **FIGHT** &nbsp; · &nbsp; 🎉 **FUN**
