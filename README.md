@@ -3,7 +3,7 @@
     src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/refs/heads/main/git2.png" 
     alt="Introduction Banner.." 
     width="800" 
-    style="border-radius: 30px; opacity: 0.95; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+    style="border-radius: 30 px; opacity: 0.95; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
   />
 </p>
 
