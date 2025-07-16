@@ -10,11 +10,11 @@
       />
       -->
       <div style="font-size: 24px; font-weight: bold;">
-        <span style="color: #007ACC;">🎯<strong> FOCUS</strong>strong</span>
+        <span style="color: #007ACC;">🎯<strong> FOCUS</strong></span>
         &nbsp;&nbsp;
-        <span style="color: #E63946;">🥊 FIGHT</span>
+        <span style="color: #E63946;">🥊<strong> FIGHT</strong></span>
         &nbsp;&nbsp;
-        <span style="color: #2A9D8F;">🎉 FUN</span>
+        <span style="color: #2A9D8F;">🎉<strong> FUN</strong></span>
       </div>
     </td>
   </tr>
