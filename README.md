@@ -1,17 +1,25 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" bgcolor="#f2f2f2" style="padding: 30px; border-radius: 10px;">
-     <!-- <img 
+      <!--
+      <img 
         src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git2.png" 
         alt="Introduction Banner.." 
         width="300" 
         style="border-radius: 20px; opacity: 0.95;" 
-      />-->
-      <br><br>
-      🎯 <strong>FOCUS</strong> &nbsp;  &nbsp; 🥊 <strong>FIGHT</strong> &nbsp;  &nbsp; 🎉 <strong>FUN</strong>
+      />
+      -->
+      <div style="font-size: 24px; font-weight: bold;">
+        <span style="color: #007ACC;">🎯 FOCUS</span>
+        &nbsp;&nbsp;
+        <span style="color: #E63946;">🥊 FIGHT</span>
+        &nbsp;&nbsp;
+        <span style="color: #2A9D8F;">🎉 FUN</span>
+      </div>
     </td>
   </tr>
 </table>
+
 
 ---
 
