@@ -1,34 +1,25 @@
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <div style="
-        max-width: 600px;
-        width: 90%;
-        background-color: #f2f2f2;
-        padding: 80px 60px;
-        border-radius: 20px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        margin: 0 auto;
-      ">
-        <!--
-        <img 
-          src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git2.png" 
-          alt="Introduction Banner.." 
-          width="300" 
-          style="border-radius: 20px; opacity: 0.95;" 
-        />
-        -->
-          <div align="center" style="background-color:#f2f2f2; padding: 40px 20px; border-radius: 12px; width: 80%; margin: auto; font-size: 24px; font-weight: bold;">
-    <span style="color:#007ACC;">🎯 FOCUS</span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span style="color:#E63946;">🥊 FIGHT</span>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <span style="color:#2A9D8F;">🎉 FUN</span>
-</div>
+    <td align="center" bgcolor="#f2f2f2" style="padding: 30px; border-radius: 10px;">
+      <!--
+      <img 
+        src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git2.png" 
+        alt="Introduction Banner.." 
+        width="300" 
+        style="border-radius: 20px; opacity: 0.95;" 
+      />
+      -->
+      <div style="font-size: 24px; font-weight: bold;">
+        <span style="color: #007ACC;">🎯 FOCUS</span>
+        &nbsp;&nbsp;
+        <span style="color: #E63946;">🥊 FIGHT</span>
+        &nbsp;&nbsp;
+        <span style="color: #2A9D8F;">🎉 FUN</span>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 
