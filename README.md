@@ -1,6 +1,6 @@
 <table align="center" width="100%">
   <tr>
-    <td align="center" bgcolor="#f2f2f2" style="padding: 30px; border-radius: 10px;">
+    <td align="center" bgcolor="#f2f2f2" style="padding: 80px 60px; border-radius: 10px;">
       <!--
       <img 
         src="https://raw.githubusercontent.com/noureldien2021/noureldien2021/main/git2.png" 
@@ -9,7 +9,7 @@
         style="border-radius: 20px; opacity: 0.95;" 
       />
       -->
-      <div style="font-size: 24px; font-weight: bold;">
+      <div style="font-size: 28px; font-weight: bold;">
         <span style="color: #007ACC;">🎯 FOCUS</span>
         &nbsp;&nbsp;
         <span style="color: #E63946;">🥊 FIGHT</span>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
