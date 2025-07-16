@@ -10,7 +10,7 @@
       />
       -->
       <div style="font-size: 24px; font-weight: bold;">
-        <span style="color: #007ACC;">🎯 **FOCUS**</span>
+        <span style="color: #007ACC;">🎯<strong> FOCUS</strong>strong</span>
         &nbsp;&nbsp;
         <span style="color: #E63946;">🥊 FIGHT</span>
         &nbsp;&nbsp;
