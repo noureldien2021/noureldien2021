@@ -38,7 +38,7 @@
 - 🐍 **Programming**: Python  
 - 🔐 **Monitoring & Security**: Custom scripts · GuardDuty  
 - 🧰 **DevOps Stack**: GitHub Actions · Cloud Build  
-- 🛢️ **Databases**: MongoDB · SQL Server  
+- 🛢️ **Databases**:  SQL Server  
 - 🐧 **OS**: Linux  
 - 💻 **Virtualization**: VMware  
 - 🌐 **Networking & Storage**: VPCs · Block / Object / File Storage  
