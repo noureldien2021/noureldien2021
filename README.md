@@ -55,7 +55,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noureldiensami2021@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://your-cv-link.com/Noureldien_CV.pdf" target="_blank">
+  <a href="[https://your-cv-link.com/Noureldien_CV.pdf](https://drive.google.com/file/d/1qMdaAXCIu6c55owGlPysG-fIcEykFXRw/view?usp=drive_link)" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-green?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" />
   </a>
 </p>
