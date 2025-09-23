@@ -34,7 +34,7 @@
 ### 🛠️ Tools & Technologies
 
 - ☁️ **Cloud**: AWS · GCP · Huawei
-- 🐳 **Containers & IaC**: Docker · Kubernetes · Terraform · CI/CD  
+- 🐳 **Containers & IaC**: Docker · Kubernetes · Terraform 
 - 🐍 **Programming**: Python  
 - 🔐 **Monitoring & Security**: Custom scripts · GuardDuty  
 - 🧰 **DevOps Stack**: Jenkins · Cloud Build  
