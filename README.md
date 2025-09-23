@@ -33,11 +33,11 @@
 
 ### 🛠️ Tools & Technologies
 
-- ☁️ **Cloud**: AWS · GCP  
+- ☁️ **Cloud**: AWS · GCP . Huawei
 - 🐳 **Containers & IaC**: Docker · Kubernetes · Terraform · CI/CD  
 - 🐍 **Programming**: Python  
 - 🔐 **Monitoring & Security**: Custom scripts · GuardDuty  
-- 🧰 **DevOps Stack**: GitHub Actions · Cloud Build  
+- 🧰 **DevOps Stack**: Jenkins · Cloud Build  
 - 🛢️ **Databases**:  SQL Server  
 - 🐧 **OS**: Linux  
 - 💻 **Virtualization**: VMware  
