@@ -27,13 +27,13 @@
 
 - ☁️ Passionate about the world of **Cloud & DevOps**
 - 🧠 Always committed to **lifelong learning**
-- 🌱 Currently exploring **AI & IoT fundamentals**
+- 🌱 Currently exploring **AI & IoT**
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-- ☁️ **Cloud**: AWS · GCP . Huawei
+- ☁️ **Cloud**: AWS · GCP · Huawei
 - 🐳 **Containers & IaC**: Docker · Kubernetes · Terraform · CI/CD  
 - 🐍 **Programming**: Python  
 - 🔐 **Monitoring & Security**: Custom scripts · GuardDuty  
